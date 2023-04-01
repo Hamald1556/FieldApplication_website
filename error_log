@@ -1,0 +1,56 @@
+[08-Jun-2022 11:36:13 UTC] PHP Notice:  Undefined variable: era in /home/atchosting/public_html/FAOS/index.php on line 103
+[08-Jun-2022 11:36:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'atchosting_hamadially'@'localhost' to database 'atchosting_21051013018' in /home/atchosting/public_html/FAOS/database.php on line 2
+[08-Jun-2022 11:36:36 UTC] PHP Warning:  mysqli_escape_string() expects parameter 1 to be mysqli, boolean given in /home/atchosting/public_html/FAOS/index.php on line 5
+[08-Jun-2022 11:36:36 UTC] PHP Warning:  mysqli_escape_string() expects parameter 1 to be mysqli, boolean given in /home/atchosting/public_html/FAOS/index.php on line 6
+[08-Jun-2022 11:36:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/atchosting/public_html/FAOS/index.php on line 8
+[08-Jun-2022 11:36:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/atchosting/public_html/FAOS/index.php on line 9
+[08-Jun-2022 11:36:36 UTC] PHP Notice:  Undefined variable: era in /home/atchosting/public_html/FAOS/index.php on line 103
+[08-Jun-2022 11:38:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'atchosting_hamadially'@'localhost' to database 'atchosting_21051013018' in /home/atchosting/public_html/FAOS/database.php on line 2
+[08-Jun-2022 11:38:34 UTC] PHP Warning:  mysqli_escape_string() expects parameter 1 to be mysqli, boolean given in /home/atchosting/public_html/FAOS/index.php on line 5
+[08-Jun-2022 11:38:34 UTC] PHP Warning:  mysqli_escape_string() expects parameter 1 to be mysqli, boolean given in /home/atchosting/public_html/FAOS/index.php on line 6
+[08-Jun-2022 11:38:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/atchosting/public_html/FAOS/index.php on line 8
+[08-Jun-2022 11:38:34 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/atchosting/public_html/FAOS/index.php on line 9
+[08-Jun-2022 11:38:34 UTC] PHP Notice:  Undefined variable: era in /home/atchosting/public_html/FAOS/index.php on line 103
+[08-Jun-2022 12:02:07 UTC] PHP Notice:  Undefined variable: era in /home/atchosting/public_html/FAOS/index.php on line 103
+[08-Jun-2022 12:16:29 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/atchosting/public_html/FAOS/faos_pdf.php on line 6
+[08-Jun-2022 12:16:29 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/atchosting/public_html/FAOS/faos_pdf.php on line 43
+[08-Jun-2022 12:16:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/atchosting/public_html/FAOS/faos_pdf.php on line 59
+[08-Jun-2022 12:16:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/atchosting/public_html/FAOS/faos_pdf.php on line 60
+[08-Jun-2022 16:49:58 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/atchosting/public_html/FAOS/faos_activate_email.php on line 4
+[08-Jun-2022 16:50:16 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/atchosting/public_html/FAOS/faos_activate_email.php on line 4
+[08-Jun-2022 16:50:22 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/atchosting/public_html/FAOS/faos_activate_email.php on line 4
+[08-Jun-2022 16:51:25 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/atchosting/public_html/FAOS/faos_activate_email.php on line 4
+[08-Jun-2022 17:46:52 UTC] PHP Notice:  Undefined variable: era in /home/atchosting/public_html/FAOS/reset_password.php on line 96
+[08-Jun-2022 17:47:05 UTC] PHP Notice:  Undefined variable: conn in /home/atchosting/public_html/FAOS/reset_password.php on line 10
+[08-Jun-2022 17:47:05 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/atchosting/public_html/FAOS/reset_password.php on line 10
+[08-Jun-2022 17:47:05 UTC] PHP Notice:  Undefined variable: era in /home/atchosting/public_html/FAOS/reset_password.php on line 96
+[08-Jun-2022 17:48:16 UTC] PHP Notice:  Undefined variable: era in /home/atchosting/public_html/FAOS/reset_password.php on line 96
+[08-Jun-2022 17:48:24 UTC] PHP Notice:  Undefined variable: conn in /home/atchosting/public_html/FAOS/reset_password.php on line 10
+[08-Jun-2022 17:48:24 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/atchosting/public_html/FAOS/reset_password.php on line 10
+[08-Jun-2022 17:48:24 UTC] PHP Notice:  Undefined variable: era in /home/atchosting/public_html/FAOS/reset_password.php on line 96
+[08-Jun-2022 17:48:35 UTC] PHP Notice:  Undefined variable: conn in /home/atchosting/public_html/FAOS/reset_password.php on line 10
+[08-Jun-2022 17:48:35 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/atchosting/public_html/FAOS/reset_password.php on line 10
+[08-Jun-2022 17:48:35 UTC] PHP Notice:  Undefined variable: era in /home/atchosting/public_html/FAOS/reset_password.php on line 96
+[08-Jun-2022 17:51:27 UTC] PHP Notice:  Undefined variable: era in /home/atchosting/public_html/FAOS/reset_password.php on line 96
+[08-Jun-2022 17:51:34 UTC] PHP Warning:  trim() expects parameter 1 to be string, object given in /home/atchosting/public_html/FAOS/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1078
+[08-Jun-2022 17:51:34 UTC] PHP Recoverable fatal error:  Object of class PHPMailer\PHPMailer\PHPMailer could not be converted to string in /home/atchosting/public_html/FAOS/reset_password.php on line 22
+[08-Jun-2022 17:53:45 UTC] PHP Notice:  Undefined variable: era in /home/atchosting/public_html/FAOS/reset_password.php on line 98
+[08-Jun-2022 17:54:57 UTC] PHP Notice:  Undefined variable: era in /home/atchosting/public_html/FAOS/reset_password.php on line 98
+[08-Jun-2022 17:55:03 UTC] PHP Warning:  trim() expects parameter 1 to be string, object given in /home/atchosting/public_html/FAOS/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1078
+[08-Jun-2022 17:55:03 UTC] PHP Recoverable fatal error:  Object of class PHPMailer\PHPMailer\PHPMailer could not be converted to string in /home/atchosting/public_html/FAOS/reset_password.php on line 24
+[08-Jun-2022 17:56:55 UTC] PHP Notice:  Undefined variable: code in /home/atchosting/public_html/FAOS/mailer.php on line 27
+[08-Jun-2022 17:58:49 UTC] PHP Notice:  Undefined variable: era in /home/atchosting/public_html/FAOS/reset_password.php on line 98
+[08-Jun-2022 17:58:58 UTC] PHP Recoverable fatal error:  Object of class PHPMailer\PHPMailer\PHPMailer could not be converted to string in /home/atchosting/public_html/FAOS/reset_password.php on line 24
+[08-Jun-2022 18:06:44 UTC] PHP Notice:  Undefined variable: era in /home/atchosting/public_html/FAOS/reset_password.php on line 98
+[08-Jun-2022 18:06:51 UTC] PHP Recoverable fatal error:  Object of class PHPMailer\PHPMailer\PHPMailer could not be converted to string in /home/atchosting/public_html/FAOS/reset_password.php on line 24
+[08-Jun-2022 18:15:07 UTC] PHP Notice:  Undefined variable: era in /home/atchosting/public_html/FAOS/reset_password.php on line 98
+[08-Jun-2022 18:15:16 UTC] PHP Notice:  Undefined variable: number in /home/atchosting/public_html/FAOS/mailer.php on line 27
+[08-Jun-2022 18:15:16 UTC] PHP Recoverable fatal error:  Object of class PHPMailer\PHPMailer\PHPMailer could not be converted to string in /home/atchosting/public_html/FAOS/reset_password.php on line 24
+[08-Jun-2022 18:18:43 UTC] PHP Notice:  Undefined variable: era in /home/atchosting/public_html/FAOS/reset_password.php on line 98
+[08-Jun-2022 18:18:52 UTC] PHP Notice:  Undefined variable: number in /home/atchosting/public_html/FAOS/mailer.php on line 27
+[08-Jun-2022 18:18:52 UTC] PHP Notice:  Undefined variable: era in /home/atchosting/public_html/FAOS/reset_password.php on line 98
+[08-Jun-2022 18:20:05 UTC] PHP Notice:  Undefined variable: era in /home/atchosting/public_html/FAOS/reset_password.php on line 98
+[08-Jun-2022 18:20:11 UTC] PHP Notice:  Undefined variable: era in /home/atchosting/public_html/FAOS/reset_password.php on line 98
+[08-Jun-2022 18:20:21 UTC] PHP Notice:  Undefined variable: era in /home/atchosting/public_html/FAOS/reset_password.php on line 98
+[08-Jun-2022 18:26:18 UTC] PHP Notice:  Undefined variable: era in /home/atchosting/public_html/FAOS/reset_password.php on line 98
+[08-Jun-2022 18:35:25 UTC] PHP Notice:  Undefined variable: era in /home/atchosting/public_html/FAOS/reset_password.php on line 98
