@@ -11,17 +11,17 @@ try {
     //Server settings
     //$mail->SMTPDebug = SMTP::DEBUG_SERVER;                      //Enable verbose debug output
     $mail->isSMTP();                                            //Send using SMTP
-    $mail->Host       = 'mail.atchosting.ac.tz';                     //Set the SMTP server to send through
+    $mail->Host       = '';                     //Set the SMTP server to send through
     $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
-    $mail->Username   = 'hamadially@atchosting.ac.tz';                     //SMTP username
-    $mail->Password   = '@1903bahati';                               //SMTP password
+    $mail->Username   = '';                     //SMTP username
+    $mail->Password   = '';                               //SMTP password
     $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;            //Enable implicit TLS encryption
     $mail->Port       = 465;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
 
     //Recipients
-    $mail->setFrom('hamadially@atchosting.ac.tz', ' F A O S');
+    $mail->setFrom('', ' F A O S');
     $mail->addAddress($email);
-    $mail->addReplyTo('hamadially@atchosting.ac.tz', 'Information');
+    $mail->addReplyTo('', 'Information');
 
     //Content
     $message = "<a href='atchosting.ac.tz/FAOS/password_verify.php?email=$email&&code=$code'>click here to activate</a>";
